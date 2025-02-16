@@ -3,13 +3,6 @@
 ###
 
 <p align="left">passionate PHP developer and aspiring full-stack developer from Iran.</p>
-
-###
-
-
-
-###
-
 <br clear="both">
 
   <p align="left">📫 How to Reach Me:</p>
