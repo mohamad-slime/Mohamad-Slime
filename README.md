@@ -52,4 +52,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
 </div>
 
+# 📊GitHub Stats :
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohamad-slime&theme=radical&hide_border=true)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamad-slime&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
+
+[![](https://visitcount.itsvg.in/api?id=mohamad-slime&icon=0&color=0)](https://visitcount.itsvg.in)
 ###
